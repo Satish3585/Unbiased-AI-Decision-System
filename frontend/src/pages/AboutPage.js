@@ -1,5 +1,5 @@
 import React from 'react';
-import { Info, Shield, Scale, Zap, BookOpen, Code } from 'lucide-react';
+import { Info, Shield, Scale, Zap } from 'lucide-react';
 import PageHeader from '../components/PageHeader';
 
 function AboutPage() {
